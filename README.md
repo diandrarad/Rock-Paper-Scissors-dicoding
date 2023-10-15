@@ -62,7 +62,9 @@ The project's success is evaluated based on the final validation accuracy. Feel 
 This project was developed as part of the Dicoding Academy's "Belajar Machine Learning untuk Pemula" class – a comprehensive course on introductory machine learning. Special thanks to Dicoding Academy for providing valuable resources, guidance, and a platform for learning.
 
 Course: [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184)
+
 Instructor: [Dicoding Academy](https://www.dicoding.com/)
+
 Completion Date: 15/10/2023
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
