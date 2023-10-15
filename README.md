@@ -22,8 +22,8 @@ Image classification is a fundamental task in computer vision, and this project 
 
 ## Project Overview
 This project consists of several key steps:
-1. **Data Collection:** We obtain a dataset of rock-paper-scissors images, which is used for training and validation.
-2. **Data Preparation:** We clean and organize the dataset, create training and validation sets, and apply data augmentation to enhance model performance.
+1. **Data Collection:** Obtaining a dataset of rock-paper-scissors images, which is used for training and validation.
+2. **Data Preparation:** Cleaning and organizing the dataset, creating training and validation sets, and applying data augmentation to enhance model performance.
 3. **Model Development:** A CNN model is constructed using TensorFlow and Keras to learn and classify the images.
 4. **Model Training:** The model is trained on the augmented dataset to achieve high accuracy.
 5. **Predict Custom Images:** Users can upload their own rock, paper, or scissors images and see how well the model classifies them.
