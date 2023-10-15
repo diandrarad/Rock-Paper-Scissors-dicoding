@@ -14,7 +14,7 @@ This project demonstrates the creation of an image classification model using de
 - [Model Training](#model-training)
 - [Predict Custom Images](#predict-custom-images)
 - [Results](#results)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 ## Introduction
@@ -58,8 +58,11 @@ In the provided notebook or script, you can upload your own rock, paper, or scis
 ## Results
 The project's success is evaluated based on the final validation accuracy. Feel free to modify and fine-tune the model to improve the results further.
 
-## Contributing
-If you would like to contribute to this project, please follow the usual [GitHub flow](https://guides.github.com/introduction/flow/). You can open issues, submit pull requests, or provide feedback.
+## Credits
+This project was developed as part of the Dicoding Academy's "Belajar Machine Learning untuk Pemula" class – a comprehensive course on introductory machine learning. Special thanks to Dicoding Academy for providing valuable resources, guidance, and a platform for learning.
 
+Course: [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184)
+Instructor: [Dicoding Academy](https://www.dicoding.com/)
+Completion Date: 15/10/2023
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
