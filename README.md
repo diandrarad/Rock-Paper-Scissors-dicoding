@@ -56,7 +56,7 @@ The model is trained on the augmented dataset with the goal of achieving a high 
 In the provided notebook or script, you can upload your own rock, paper, or scissors images. The model will predict and classify them, allowing you to test its performance on custom data.
 
 ## Results
-The project's success is evaluated based on the final validation accuracy. Feel free to modify and fine-tune the model to improve the results further.
+The project's success is evaluated based on the final validation accuracy. Model's final validation accuracy: 90.00%.
 
 ## Credits
 This project was developed as part of the Dicoding Academy's "Belajar Machine Learning untuk Pemula" class – a comprehensive course on introductory machine learning. Special thanks to Dicoding Academy for providing valuable resources, guidance, and a platform for learning.
